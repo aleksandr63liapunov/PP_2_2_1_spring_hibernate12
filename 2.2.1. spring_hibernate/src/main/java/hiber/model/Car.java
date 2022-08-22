@@ -15,14 +15,7 @@ public class Car {
     private User user;
 
 
-    private String surName;
-
-  
-
-    private int s;
-    private int rt;
-
-    private String o;
+   
 
     public Car(String model, int series) {
         this.model = model;
