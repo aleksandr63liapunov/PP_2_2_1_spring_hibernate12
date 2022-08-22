@@ -22,6 +22,8 @@ public class Car {
     private int s;
     private int rt;
 
+    private String o;
+
     public Car(String model, int series) {
         this.model = model;
         this.series = series;
